@@ -3,7 +3,7 @@
 https://pypi.org/project/l-pdseries-2-l-dfs/
 
 
-this function: <l_pdseries_2_l_dfs> converts a list of
+The function: <l_pdseries_2_l_dfs> stands for List_pdSeries_to_list_dataFrames, converts a list of
 #pandas series to list of pandas data frame. For further easy analysis of 
 #list of dfs. Many times we are faced that we have a list of list of pandas df.
 # this function helps in such situations
