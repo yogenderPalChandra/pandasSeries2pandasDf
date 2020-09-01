@@ -13,7 +13,7 @@ setup(name='l_pdseries_2_l_dfs',
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.7',
-        'Topic :: Pandas Data Frame Manipulation ',
+        'Topic :: Scientific/Engineering :: Visualization'
       ],
       keywords='list of Pandas series to list of pandas data frame',
       url='http://github.com/YogenderPalChandra/pandasSeries2pandasDf',
